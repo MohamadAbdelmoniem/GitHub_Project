@@ -1,6 +1,6 @@
-# Gitflow Workflow Simulator
+![Workflow Overview](./Work-Flow.png)
 
-(./Work-Flow.png)
+# Gitflow Workflow Simulator
 
 This project demonstrates the Gitflow workflow, showcasing best practices for managing version control in a team environment. The repository simulates a real-world project with multiple branches, including feature development, bug fixes, and release management.
 
